@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Yosue Cardozo
 
 ### Desarrollador Full Stack 💻
 
@@ -20,13 +20,10 @@ Actualmente me especializo en el desarrollo de aplicaciones web con tecnologías
 
 ### Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo **[Tecnología o Lenguaje]**.
-- 🔭 Estoy trabajando en **[Tu Proyecto Actual]**.
-- 💬 Pregúntame sobre **[Tecnologías en las que tienes experiencia]**.
-- 📫 Puedes contactarme en **[Tu Correo Electrónico]**.
-- ⚡ Dato curioso: ¡[Un dato divertido sobre ti]!
 
----
+- 📫 Puedes contactarme en yopizasue@gmail.com
+
+
 
 ### Conecta conmigo
 
